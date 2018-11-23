@@ -1,13 +1,11 @@
 # eCommerce
 <h2>E-commerce Full Stack web application</h2>
 <pre>
-Used Technologies :
-  Django framework 
-  Bootstrap 
-  PostgreSQL,
-</pre>
-<br />
-<pre>
+<h3>Used Technologies :</h3>
+  1. Django framework 
+  2. Bootstrap 
+  3. PostgreSQL
+  
 <h3>Description:</h3>
   1. Authentications : Login, Logout, register
   2. Search Engine
